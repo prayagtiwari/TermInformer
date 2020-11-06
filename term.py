@@ -36,7 +36,7 @@ def clean_term(bag):
 		bag.pop(k)
 	# pass
 
-INPUT="/home/zack/pubmed/huangfu/pubmedCorpus"
+INPUT="/home/prayag/pubmed/pubmedCorpus"
 OUTPUT="term.json"
 interval=1000
 total=100000
